@@ -1,5 +1,5 @@
 ## Task-1 Analysing resume dataset 
-This task was given to me by manager Vaibhav Vashishtha sir he told me to take sample dataset of resume and do data analytics on that to get ats related data and insights.
+This task was given to me by manager Vaibhav Vashishtha sir he told me to take sample dataset of resume of the candidates and do data analytics on that to get ats related data and insights.
 
 ### What we did????
 - Took a sample data set of resume from kaggle (https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset)  ((job-descripton.csv))
@@ -9,6 +9,7 @@ This task was given to me by manager Vaibhav Vashishtha sir he told me to take s
 - created a python file inside the folder
 - code: read csv file and coded different things to analyse data and plot graphs
 - the python file is called atsAnalysis.ipynb
+- the code file has the code that was used in atsAnalysis.ipynb since to run atsAnalysis.ipynb we need job-description.csv which I cannot upload here since its way too large(we generally do analysis of gigantic data ;)) and it is exceeding the limit so I am uploading the code as it is in code file
   
 
 
