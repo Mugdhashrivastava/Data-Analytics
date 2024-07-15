@@ -11,5 +11,10 @@ This task was given to me by manager Vaibhav Vashishtha sir he told me to take s
 - the python file is called atsAnalysis.ipynb
 - the code file has the code that was used in atsAnalysis.ipynb since to run atsAnalysis.ipynb we need job-description.csv which I cannot upload here since its way too large(we generally do analysis of gigantic data ;)) and it is exceeding the limit so I am uploading the code as it is in code file one is in code.py file and one is in code.txt file in code folder. You can use whatever works for you.
   
-
+### How did I extracted only code from jupyter notebook
+- go to that jupyter notebook 
+- click on file button at top left
+- click download as .py file
+- hurray! its done
+- use this youtube tutorial for reference(https://youtu.be/K1n4HBCIeOI?feature=shared)
 
